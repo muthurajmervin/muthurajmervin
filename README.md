@@ -10,7 +10,6 @@ Welcome to my GitHub profile! I'm passionate about coding, exploring new technol
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Overthinker.
 
-### Languages and Tools:
 
 ### Languages and Tools:
 
