@@ -12,7 +12,10 @@ Welcome to my GitHub profile! I'm passionate about coding, exploring new technol
 
 ### Languages and Tools:
 
-:html5: :css3: :bootstrap: :javascript: :python: :django: :flask: :mysql: :postgresql: :aws: :openai:
+### Languages and Tools:
+
+![HTML](https://emojicdn.elk.sh/🌐) ![CSS](https://emojicdn.elk.sh/🎨) ![Bootstrap](https://emojicdn.elk.sh/🅱️) ![JavaScript](https://emojicdn.elk.sh/🔧) ![Python](https://emojicdn.elk.sh/🐍) ![Django](https://emojicdn.elk.sh/🛤️) ![Flask](https://emojicdn.elk.sh/🍶) ![MySQL](https://emojicdn.elk.sh/🐬) ![PostgreSQL](https://emojicdn.elk.sh/🐘) ![AWS](https://emojicdn.elk.sh/☁️) ![OpenAI](https://emojicdn.elk.sh/🤖)
+
 
 
 ### GitHub Stats:
