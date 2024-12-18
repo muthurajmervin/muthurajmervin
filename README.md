@@ -90,7 +90,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://aws.amazon.com/lambda/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="amazon lambda" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-ar21.svg" alt="amazon lambda" width="40" height="40" />
   </a>
   &nbsp;&nbsp;
   <a href="https://aws.amazon.com/cloudwatch/" target="_blank" rel="noreferrer">
