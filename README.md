@@ -1,27 +1,53 @@
-# Hi there! 👋 I'm Muthuraj Mervin
+# Hi there! 👋 I'm Muthu Raj Mervin  
 
-Welcome to my GitHub profile! I'm passionate about coding, exploring new technologies, and collaborating on exciting projects. Here's a bit about me:
+🎯 **Python Full Stack Developer**  
 
-- 🔭 I’m currently working on enhancing my coding skills and contributing to open-source projects.
-- 🌱 I’m currently learning AWS
-- 👯 I’m looking to collaborate on projects that are innovative and impactful.
-- 💬 Ask me about anything related to coding, technology, or software development.
-- 📫 You can reach me via mervin.mraj@gmail.com.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Overthinker.
+---
 
+## 🚀 About Me  
+I am a passionate and dedicated developer specializing in Python-based web development. With expertise in both front-end and back-end technologies, I enjoy building scalable, user-friendly applications and exploring innovative solutions to complex problems.  
 
-### Languages and Tools:
+---
 
-![HTML](https://emojicdn.elk.sh/🌐) ![CSS](https://emojicdn.elk.sh/🎨) ![Bootstrap](https://emojicdn.elk.sh/🅱️) ![JavaScript](https://emojicdn.elk.sh/🔧) ![Python](https://emojicdn.elk.sh/🐍) ![Django](https://emojicdn.elk.sh/🛤️) ![Flask](https://emojicdn.elk.sh/🍶) ![MySQL](https://emojicdn.elk.sh/🐬) ![PostgreSQL](https://emojicdn.elk.sh/🐘) ![AWS](https://emojicdn.elk.sh/☁️) ![OpenAI](https://emojicdn.elk.sh/🤖)
+## 🛠️ Skills  
+**Languages & Frameworks**  
+- HTML, CSS, Bootstrap  
+- JavaScript  
+- Python, Django, Flask  
 
+**Databases**  
+- MySQL, SQLite3  
 
+**Tools & Platforms**  
+- AWS  
+- Docker  
+- GitHub  
+- VS Code, IDLE  
 
-### GitHub Stats:
+---
 
-![Muthuraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muthurajmervin&show_icons=true&theme=radical)
+## 📧 Contact Me  
+- **Email**: [mervin.mraj@gmail.com](mailto:mervin.mraj@gmail.com)  
+- **LinkedIn**: [Your LinkedIn Profile](#)  
 
-### Connect with Me:
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/muthu-raj-mervin-81a6a4219))
-[![Twitter](https://img.shields.io/twitter/follow/yourusername?style=social)](https://twitter.com/yourusername)
+## 🌟 Motto  
+*"Building impactful solutions with a continuous drive for learning and innovation."*  
+
+---
+
+## 🌍 Hobbies  
+- Exploring new places 🗺️  
+- Learning new things 📘  
+
+---
+
+### 📊 GitHub Stats  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)  
+
+---
+
+## 🚀 Let's Connect!  
+Feel free to connect with me to discuss opportunities, projects, or just to say hi!  
