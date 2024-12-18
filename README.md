@@ -89,15 +89,6 @@
     <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://aws.amazon.com/lambda/" target="_blank" rel="noreferrer">
-      <img src="https://worldvectorlogo.com/logos/aws-lambda-1.svg" alt="AWS Lambda" width="40" height="40" />
-  </a>
-
-  &nbsp;&nbsp;
-  <a href="https://aws.amazon.com/cloudwatch/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="amazon cloudwatch" width="40" height="40" />
-  </a>
-  &nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
   </a>
